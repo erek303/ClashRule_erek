@@ -1,0 +1,8 @@
+# ==============================
+# 自定义直连规则 - 国内流量
+# ==============================
+
+# UHDNow 国内服务
+DOMAIN-SUFFIX,smart2.uhdnow.com
+DOMAIN-SUFFIX,smart.uhdnow.com
+DOMAIN-SUFFIX,mlc.once.im
