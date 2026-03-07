@@ -1,0 +1,8 @@
+# ==============================
+# 自定义规则 - 香港节点
+# ==============================
+
+# UHDNow 国际服务
+DOMAIN,v1.uhdnow.com
+DOMAIN,global.uhdnow.com
+DOMAIN-SUFFIX,uhdnow.com
