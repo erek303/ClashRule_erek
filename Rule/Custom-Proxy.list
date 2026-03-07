@@ -1,0 +1,17 @@
+# ==============================
+# 自定义代理规则 - 走美国节点
+# ==============================
+
+# Dia Browser（AI浏览器，The Browser Company出品）
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,diabrowser.com
+DOMAIN-SUFFIX,thebrowser.company
+
+# Film Grab（电影截图网站）
+DOMAIN-SUFFIX,film-grab.com
+
+# Lovart（AI设计工具）
+DOMAIN-SUFFIX,lovart.ai
+
+# fk.codesome.cn（自定义代理）
+DOMAIN,fk.codesome.cn
